@@ -1,2 +1,2 @@
-# share
-To share training and examples files
+# share/ruby-katas
+Training ruby challenges
